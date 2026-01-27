@@ -286,7 +286,6 @@ valgrind --leak-check=full --track-origins=yes ./run_tests
 
 ### Documentation:
 - **README.md** - This file (complete guide)
-- **HINTS.md** - Detailed implementation hints
 - **BUILD.md** - Full build and debugging reference
 
 ---
